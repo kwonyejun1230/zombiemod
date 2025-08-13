@@ -1,0 +1,9 @@
+name: ZombieSurvival
+main: com.example.zombiesurvival.ZombieSurvival
+version: 1.0
+api-version: 1.21.5
+commands:
+  startzombie:
+    description: Start the zombie survival game
+  stopzombie:
+    description: Stop the zombie survival game
